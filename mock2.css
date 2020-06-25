@@ -1,0 +1,41 @@
+.heading {
+    border: 2px solid black;
+    width: 500px;
+    margin: 50px 20px;
+    padding: 2px;
+}
+
+.container {
+    border: 2px solid black;
+    margin: -50px 20px;
+    width: 500px;
+}
+
+.horizontal {
+    border: 2px solid black;
+    background-color: rgb(141, 113, 198);
+    width: 470px;
+    height: 70px;
+    margin: 10px 15px;
+}
+
+.col {
+    border: 2px solid black;
+    height: 200px;
+    width: 130px;
+    display: inline-block;
+    margin: 5px 15px 25px 15px;
+}
+
+.col-left {
+    background-color: rgb(233, 85, 85);
+} 
+
+.col-center {
+    background-color: rgb(110, 182, 110);
+}
+
+.col-right {
+    background-color: orange ;
+}
+ 

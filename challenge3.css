@@ -1,0 +1,42 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(54,67,113);
+    display: flex;
+    justify-content:center;
+    font-family: sans-serif, serif;
+      
+  }
+  #wrap{
+      background-color: rgb(91,127,189);
+      border: 1px solid #333;
+      width: 90%;
+      height: 450px;
+       }
+
+  #nav{
+      float: left;
+      width: 160px;
+      height: 450px;
+      margin-left: 0;
+      
+      background-color:rgb(176,207,255)
+  }
+  
+  #nav h2{
+      margin-top: 1em;
+      padding-left: 0.1em;
+  }
+  
+  #content{
+      padding-top: 0.1em;
+      margin: 5px 2em 10px 200px;
+  }
+  .list{
+      list-style-type: none;
+      text-align: center;
+  }
+  .copyright{
+   clear: both;
+   text-align: center;
+   padding-top: 5px;
+  }
